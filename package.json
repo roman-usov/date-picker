@@ -1,0 +1,26 @@
+{
+	"name": "date-picker",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"start": "parcel index.html",
+		"build": "parcel build index.html"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/roman-usov/date-picker.git"
+	},
+	"author": "",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/roman-usov/date-picker/issues"
+	},
+	"homepage": "https://github.com/roman-usov/date-picker#readme",
+	"devDependencies": {
+		"parcel": "^2.3.2"
+	},
+	"dependencies": {
+		"date-fns": "^2.28.0"
+	}
+}
